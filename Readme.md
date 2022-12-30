@@ -5,4 +5,4 @@
 ## 研究报告
 - [Pi的研究报告](https://github.com/Paipipaipi/AI4S/blob/ea3dcb3963722308fea1f6888ec04bf854129f40/AI4S_Report.md)
 - [其他人的研究报告](https://github.com/wangzuzihan/AI4S/blob/main/README.md)
-- [AI4S Mapping](https://github.com/wangzuzihan/AI4S/blob/main/README.md)
+- [AI4S Mapping](https://github.com/wangzuzihan/AI4S-Mapping/blob/main/README.md)
